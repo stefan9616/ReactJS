@@ -1,0 +1,19 @@
+footer .contacts{
+    display: flex;
+    justify-content: space-evenly;
+    background: #403d3d;
+    color: white;
+    padding: 20px;
+}
+footer .icons{
+    font-size:50px;
+    padding-top: 10px;
+}
+footer p, h2{
+    margin: 10px 0px;
+}
+footer svg{
+   padding: 20px 50px;
+   color: #fff;
+
+}
