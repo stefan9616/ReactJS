@@ -1,0 +1,47 @@
+nav {
+    background: linear-gradient(rgba(229, 16, 16, 0.5), rgba(237, 231, 231, 0.8));
+    display: flex;
+    justify-content: end;
+    padding: 20px 40px;
+    font-size: 22px;
+    font-weight: 500;
+    gap: 5px;
+    
+}
+
+nav a {
+    color: #0b0a0a;
+    text-decoration: none;
+    padding: 12px;
+    margin: 8px;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+nav span{
+    color: rgb(6, 5, 5);
+    background: rgb(126, 122, 122);
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+    font-style: italic;
+    font-size: 22px;
+}
+
+a:hover {
+    color:rgb(242, 8, 8);
+}
+
+.logo {
+    position: absolute;
+    top: 7px;
+    left: 50px;
+}
+
+.logo img {
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    
+
+}
